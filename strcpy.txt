@@ -16,3 +16,7 @@ char* StrCpy(char* src)
 	return s;
 	free(s);
  } 
+/**
+本地编辑   
+B20031629韩旭
+**/
