@@ -15,4 +15,6 @@ char* StrCpy(char* src)
 	s[l] = '\0';
 	return s;
 	free(s);
- } 
+ }
+ /**
+ Remote edit B20031629韩旭**/
